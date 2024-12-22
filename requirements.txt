@@ -1,0 +1,6 @@
+fastapi
+pydantic
+langchain-ollama # For testing locally
+pandas
+uvicorn[standard]  # For running the FastAPI server
+fastapi-middleware
